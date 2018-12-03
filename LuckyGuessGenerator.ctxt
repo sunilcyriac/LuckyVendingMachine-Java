@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LuckyGuessGenerator()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LuckyGuessGenerator\r\n
+comment1.params=
+comment1.target=int\ generateRandomNumber()
+comment1.text=\r\n\ Method\ to\ generate\ the\ random\ numbers\ between\ 1\ to\ 5\r\n\ \r\n\ @param\ \ no\ parameters\ are\ passed\r\n\ @return\ the\ random\ number\ generated\ by\ program\ between\ 1\ to\ 5\r\n
+numComments=2
